@@ -10,8 +10,7 @@ Projeto pessoal com foco na criação de animações matemáticas e computaciona
 - [Manim Community Edition](https://docs.manim.community/)
 - [FFmpeg](https://ffmpeg.org/) — para renderização de vídeos
 - [LaTeX (opcional)](https://www.latex-project.org/) — para exibir fórmulas matemáticas
-- [VSCode / PyCharm] — para edição dos scripts (opcional)
-
+  
 ---
 
 ## Estrutura do repositório

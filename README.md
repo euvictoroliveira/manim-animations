@@ -17,9 +17,9 @@ Projeto pessoal com foco na criação de animações matemáticas e computaciona
 
 ```plaintext
 manin-animations/
-├── scenes/                  # Scripts com as cenas (cada animação é uma classe)
-├── media/                   # Vídeos gerados (MP4, GIF)
-└── README.md                # Documentação do repositório
+├── scenes/
+├── media/                   
+└── README.md           
 ```
 
 ---
